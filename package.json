@@ -19,6 +19,7 @@
   "devDependencies": {
     "@auto-it/released": "^9.36.2",
     "auto": "^9.36.2",
+    "jest": "^26.0.1",
     "lerna": "^3.22.0"
   }
 }
