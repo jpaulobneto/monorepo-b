@@ -1,0 +1,24 @@
+{
+  "name": "@jpaulobneto/monorepo-b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpaulobneto/monorepo-b.git"
+  },
+  "author": "João Paulo Barbosa <jpaulobneto@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpaulobneto/monorepo-b/issues"
+  },
+  "homepage": "https://github.com/jpaulobneto/monorepo-b#readme",
+  "devDependencies": {
+    "@auto-it/released": "^9.36.2",
+    "auto": "^9.36.2",
+    "lerna": "^3.22.0"
+  }
+}
