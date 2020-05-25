@@ -1,0 +1,29 @@
+{
+  "name": "@jpaulobneto/monorepo-b-pkg-sub1",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "João Paulo Barbosa <jpaulobneto@gmail.com>",
+  "homepage": "https://github.com/jpaulobneto/monorepo-b/tree/master/packages/libs/monorepo-b-pkg-sub1#readme",
+  "license": "MIT",
+  "main": "lib/monorepo-b-pkg-sub1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpaulobneto/monorepo-b.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/jpaulobneto/monorepo-b/issues"
+  }
+}
