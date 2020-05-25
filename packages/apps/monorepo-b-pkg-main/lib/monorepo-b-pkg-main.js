@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
 module.exports = monorepoBPkgMain;
 
 function monorepoBPkgMain() {
-    // TODO
+  console.log("Hello from main!");
 }
